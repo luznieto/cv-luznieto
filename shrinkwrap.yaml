@@ -1,5 +1,5 @@
 dependencies:
-  '@fortawesome/fontawesome-free': 5.9.0
+  '@fortawesome/fontawesome-free': 5.11.2
   bootstrap: 4.3.1
   jquery: 3.4.1
   jquery.easing: 1.4.1
@@ -16,12 +16,12 @@ devDependencies:
   gulp-uglify: 3.0.2
   merge-stream: 2.0.0
 packages:
-  /@fortawesome/fontawesome-free/5.9.0:
+  /@fortawesome/fontawesome-free/5.11.2:
     dev: false
     engines:
       node: '>=6'
     resolution:
-      integrity: sha512-g795BBEzM/Hq2SYNPm/NQTIp3IWd4eXSH0ds87Na2jnrAUFX3wkyZAI4Gwj9DOaWMuz2/01i8oWI7P7T/XLkhg==
+      integrity: sha512-XiUPoS79r1G7PcpnNtq85TJ7inJWe0v+b5oZJZKb0pGHNIV6+UiNeQWiFGmuQ0aj7GEhnD/v9iqxIsjuRKtEnQ==
   /@types/events/3.0.0:
     dev: true
     resolution:
@@ -4372,7 +4372,7 @@ registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
-  '@fortawesome/fontawesome-free': 5.9.0
+  '@fortawesome/fontawesome-free': ^5.11.2
   bootstrap: 4.3.1
   browser-sync: 2.26.7
   del: 4.1.1
