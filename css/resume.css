@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #016450;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #016450;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -176,15 +176,16 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-image: url("http://cdn.litlepups.net/2016/03/05/most-beautiful-flowers-wallpaper.jpg");
+  background-color: #016450 !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #016450 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #016450;
 }
 
 a:hover, a:focus, a:active {
