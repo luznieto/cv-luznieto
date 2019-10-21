@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #1b5761;
+  background-color: #1b5248;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #1b5761;
+  color: #1b5248;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #2c8d9d;
+  outline-color: #2e8c7b;
 }
 
 @media (min-width: 992px) {
@@ -176,18 +176,18 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-image: url("http://cdn.litlepups.net/2016/03/05/most-beautiful-flowers-wallpaper.jpg");
-  background-color: #1b5761 !important;
+  background-image: url("https://cdn.glitch.com/7a9d554a-ee69-4e49-a300-c5bdf294536e%2FCaulerpa-Taxifolia-envahissant-la-posidonie-Photo-Parc-Port-Cros.jpg?v=1571623932657");
+  background-color: #1b5248 !important;
 }
 
 .text-primary {
-  color: #1b5761 !important;
+  color: #1b5248 !important;
 }
 
 a {
-  color: #1b5761;
+  color: #1b5248;
 }
 
 a:hover, a:focus, a:active {
-  color: #0a2125;
+  color: #081815;
 }
